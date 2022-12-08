@@ -4,12 +4,12 @@
 
 ## npm install XXX 执行过程？
 
-
-
 ## npm run XXX 执行过程？
-简述：首先会去读项目的package.json文件，找到文件中scripts中对应xxx命令，执行xxx。
---
+
+简述一下：首先会去读项目的package.json文件，找到文件中scripts中对应xxx命令，执行xxx。
+
 例如npm run dev，就是执行了 vue-cli-service serve 命令。
+
 ```json
 /* package.json */ 
 "name": "vue-admin",
