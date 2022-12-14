@@ -2,7 +2,7 @@
 
 ## 前言
 
-### 学习 avaScript 包管理器的一些笔记。
+学习 JavaScript 包管理器的一些笔记。
 <!-- 大纲 
 
 什么是 JavaScript 包管理器?
